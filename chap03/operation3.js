@@ -1,0 +1,10 @@
+"use strict";
+exports.__esModule = true;
+var num1 = 10;
+console.log("num1\u306F".concat(num1));
+var num2 = 3;
+console.log("num1\u306F".concat(num2));
+var ans = num1 % num2;
+console.log("num1\u00F7num2\u306E\u4F59\u308Aans\u306F".concat(ans));
+ans++;
+console.log("\u3055\u3089\u306B1\u8DB3\u3059\u3068".concat(ans));
